@@ -1,3 +1,3 @@
-- [Discord Timestamp](https://github.com/)
-- [Interface](https://github.com/)
-- [Message Component](https://github.com/)
+- [Discord Timestamp](https://github.com/IArabie/typescript-examples/blob/main/DiscordTimestamp.md)
+- [Interface](https://github.com/IArabie/typescript-examples/blob/main/Interface.md)
+- [Message Component](https://github.com/IArabie/typescript-examples/blob/main/MessageComponent.md)

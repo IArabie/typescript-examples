@@ -1,7 +1,7 @@
 ## Class
 
 ```ts
-export class Class {
+class Class {
     public token?: string;
     setToken(token: string | undefined) {
         this.token = token;

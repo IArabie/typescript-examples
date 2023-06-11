@@ -1,12 +1,8 @@
 ## Class
 
 ```ts
-class Class {
+export class Class {
     public token?: string;
-    constructor(token?: string) {
-        this.token = token;
-    }
-
     setToken(token: string | undefined) {
         this.token = token;
         return this;
@@ -16,10 +12,9 @@ class Class {
         return { token: this.token };
     }
 }
-
 const Token = new Class()
     Token.setToken('API_KEY');
-console.log(Token.toJSON()); 
+console.log(Token.toJSON());
 
 /**
  * Result: { token: 'API_KEY' }

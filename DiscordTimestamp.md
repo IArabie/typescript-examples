@@ -1,6 +1,4 @@
 ## Discord Timestamp
----
-
 
 ```js
 // JavaScript
